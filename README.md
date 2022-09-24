@@ -4,4 +4,4 @@ npm start
 
 OR
 
-follow the [LINK](https://superheroes-app-marynaost.netlify.app/)
+follow the [LINK](https://marynaost-shop.netlify.app/)
